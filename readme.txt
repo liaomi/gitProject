@@ -16,3 +16,4 @@ The key's randomart image is:
 
 
  [[UIApplication sharedApplication] setStatusBarHidden:YES withAnimation:UIStatusBarAnimationFade];
+Creating a new branch is quick.
